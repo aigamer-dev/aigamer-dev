@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Dev Ops Engineer at Zoho Corporation
 - 🌱 I have prior experiences in Django Back-end Development and Web Development
-- 👯 I’m looking to collaborate on
+- 👯 I’m looking to collaborate on a Chrome Extension project
 - 📫 You can reach me out for colaboration at [contact@aigamer.dev](mailto:contact@aigamer.dev)
 - ⚡ Fun fact:
   -  I thrive on crafting code that simplifies and smartens things up, always learning and evolving 📚. You could say, I'm a practical learner on a mission to improve.
